@@ -1,0 +1,80 @@
+2026-05-30 08:55:41
+
+
+2026-05-30 08:56:05
+
+
+2026-05-30 08:56:13
+
+
+2026-05-30 08:56:24
+
+
+2026-05-30 08:56:38
+
+
+2026-05-30 08:56:40
+
+
+2026-05-30 08:56:40
+
+
+2026-05-30 08:56:41
+
+
+2026-05-30 08:56:41
+
+
+2026-05-30 08:56:42
+
+
+2026-05-30 08:59:25
+
+
+2026-05-30 08:59:27
+
+
+2026-05-30 08:59:27
+
+
+2026-05-30 08:59:28
+
+
+
+====================
+2026-05-30 09:02:31
+PAYLOAD:
+
+====================
+
+====================
+2026-05-30 09:02:42
+PAYLOAD:
+
+====================
+
+====================
+2026-05-30 09:05:48
+METHOD: GET
+CONTENT_LENGTH: 0
+PAYLOAD:
+
+
+====================
+2026-05-30 09:07:52
+PAYLOAD:
+{"object":"whatsapp_business_account","entry":[{"id":"0","changes":[{"field":"messages","value":{"messaging_product":"whatsapp","metadata":{"display_phone_number":"16505551111","phone_number_id":"123456123"},"contacts":[{"profile":{"name":"test user name"},"wa_id":"16315551181","user_id":"US.13491208655302741918"}],"messages":[{"id":"ABGGFlA5Fpa","timestamp":"1504902988","from":"16315551181","from_user_id":"US.13491208655302741918","type":"text","text":{"body":"this is a text message"}}]}}]}]}
+====================
+
+====================
+2026-05-30 09:07:58
+PAYLOAD:
+
+====================
+
+====================
+2026-05-30 09:09:09
+METHOD: POST
+CONTENT_LENGTH: 498
+PAYLOAD:
+{"object":"whatsapp_business_account","entry":[{"id":"0","changes":[{"field":"messages","value":{"messaging_product":"whatsapp","metadata":{"display_phone_number":"16505551111","phone_number_id":"123456123"},"contacts":[{"profile":{"name":"test user name"},"wa_id":"16315551181","user_id":"US.13491208655302741918"}],"messages":[{"id":"ABGGFlA5Fpa","timestamp":"1504902988","from":"16315551181","from_user_id":"US.13491208655302741918","type":"text","text":{"body":"this is a text message"}}]}}]}]}

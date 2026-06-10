@@ -1,0 +1,40 @@
+2026-06-10 05:06:55
+REQUEST: {"messaging_product":"whatsapp","to":"919014331089","type":"template","template":{"name":"sumahi_followup","language":{"code":"en"},"components":[{"type":"body","parameters":[{"type":"text","text":"Customer"}]}]}}
+RESPONSE: {"messaging_product":"whatsapp","contacts":[{"input":"919014331089","wa_id":"919014331089"}],"messages":[{"id":"wamid.HBgMOTE5MDE0MzMxMDg5FQIAERgSOTM2ODRBMTlBRDJEMEQ3RDNDAA==","message_status":"accepted"}]}
+ERROR: 
+
+2026-06-10 05:06:57
+REQUEST: {"messaging_product":"whatsapp","to":"919014331089","type":"template","template":{"name":"sumahi_pricing","language":{"code":"en"},"components":[{"type":"body","parameters":[{"type":"text","text":"Customer"}]}]}}
+RESPONSE: {"messaging_product":"whatsapp","contacts":[{"input":"919014331089","wa_id":"919014331089"}],"messages":[{"id":"wamid.HBgMOTE5MDE0MzMxMDg5FQIAERgSQkNBMUY3RDgzMzNGNkVGQzk2AA==","message_status":"accepted"}]}
+ERROR: 
+
+2026-06-10 05:07:15
+REQUEST: {"messaging_product":"whatsapp","to":"919014331089","type":"template","template":{"name":"sumahi_support","language":{"code":"en"},"components":[{"type":"body","parameters":[{"type":"text","text":"Customer"}]}]}}
+RESPONSE: {"messaging_product":"whatsapp","contacts":[{"input":"919014331089","wa_id":"919014331089"}],"messages":[{"id":"wamid.HBgMOTE5MDE0MzMxMDg5FQIAERgSNTU2NDgxMTdDRkEwNjIxN0E3AA==","message_status":"accepted"}]}
+ERROR: 
+
+2026-06-10 05:27:14
+REQUEST: {"messaging_product":"whatsapp","to":"919014331089","type":"template","template":{"name":"sumahi_followup","language":{"code":"en"},"components":[{"type":"body","parameters":[{"type":"text","text":"Customer"}]}]}}
+RESPONSE: {"messaging_product":"whatsapp","contacts":[{"input":"919014331089","wa_id":"919014331089"}],"messages":[{"id":"wamid.HBgMOTE5MDE0MzMxMDg5FQIAERgSQzVFMzBBQ0JBQTk5NkY3QUE4AA==","message_status":"accepted"}]}
+ERROR: 
+
+2026-06-10 05:40:09
+REQUEST: {"messaging_product":"whatsapp","to":"919014331089","type":"template","template":{"name":"sumahi_followup","language":{"code":"en"},"components":[{"type":"body","parameters":[{"type":"text","text":"Customer"}]}]}}
+RESPONSE: {"messaging_product":"whatsapp","contacts":[{"input":"919014331089","wa_id":"919014331089"}],"messages":[{"id":"wamid.HBgMOTE5MDE0MzMxMDg5FQIAERgSMDBEMzU1NzQ1QjFBQjdEQkIyAA==","message_status":"accepted"}]}
+ERROR: 
+
+2026-06-10 07:23:04
+REQUEST: {"messaging_product":"whatsapp","to":"918074251396","type":"template","template":{"name":"sumahi_pricing","language":{"code":"en"},"components":[{"type":"body","parameters":[{"type":"text","text":"Customer"}]}]}}
+RESPONSE: {"error":{"message":"Unsupported post request. Object with ID 'messages' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\/\/developers.facebook.com\/docs\/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"AHE4MhxybJ6zV6uFNsTVvBj"}}
+ERROR: 
+
+2026-06-10 07:23:04
+REQUEST: {"messaging_product":"whatsapp","to":"918074251396","type":"template","template":{"name":"sumahi_support","language":{"code":"en"},"components":[{"type":"body","parameters":[{"type":"text","text":"Customer"}]}]}}
+RESPONSE: {"error":{"message":"Unsupported post request. Object with ID 'messages' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\/\/developers.facebook.com\/docs\/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"A3xZvd0JKjuosbRgGnTvp7y"}}
+ERROR: 
+
+2026-06-10 07:23:04
+REQUEST: {"messaging_product":"whatsapp","to":"918074251396","type":"template","template":{"name":"sumahi_followup","language":{"code":"en"},"components":[{"type":"body","parameters":[{"type":"text","text":"Customer"}]}]}}
+RESPONSE: {"error":{"message":"Unsupported post request. Object with ID 'messages' does not exist, cannot be loaded due to missing permissions, or does not support this operation. Please read the Graph API documentation at https:\/\/developers.facebook.com\/docs\/graph-api","type":"GraphMethodException","code":100,"error_subcode":33,"fbtrace_id":"Aq4vC699bq7ij2UUOH5AIqF"}}
+ERROR: 
+

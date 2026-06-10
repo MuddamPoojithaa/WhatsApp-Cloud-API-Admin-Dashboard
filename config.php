@@ -1,0 +1,6 @@
+<?php
+
+$SITE_NAME = 'sumahi';
+$EMAIL_NOTIFICATIONS = 1;
+$DARK_MODE = 0;
+$AUTO_REPLY = 1;
